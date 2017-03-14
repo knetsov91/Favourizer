@@ -1,2 +1,2 @@
 # Favourizer
-Online system for collection of favourite for the user web resources.
+Online system for collection and organization of user's favourite web resources.
